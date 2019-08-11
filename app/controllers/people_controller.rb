@@ -27,6 +27,10 @@ class PeopleController < ApplicationController
       :zipcode,
       :address_type
       ]
+<<<<<<< HEAD
     )
+=======
+  )
+>>>>>>> 7330776ed2ece972457b20af3f331b26910d479c
   end
 end
